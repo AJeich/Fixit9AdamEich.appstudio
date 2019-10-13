@@ -17,9 +17,9 @@
   "fontWeight": "", 
   "height": "auto", 
   "hidden": "", 
-  "id": "lblAdjective", 
+  "id": "lblMembership", 
   "labelStyle": "text", 
-  "left": 7, 
+  "left": 80, 
   "mAll": "", 
   "mBottom": "", 
   "mLeft": "", 
@@ -42,7 +42,7 @@
   "right": "auto", 
   "script": "", 
   "style": "", 
-  "top": 197, 
-  "value": "Adjective", 
-  "width": 67
+  "top": 285, 
+  "value": "Label", 
+  "width": 152
 }

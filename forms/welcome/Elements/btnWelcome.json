@@ -28,8 +28,8 @@
   "hidden": "", 
   "icon": "", 
   "iconTitle": "", 
-  "id": "btnQuiet", 
-  "left": 9, 
+  "id": "btnWelcome", 
+  "left": 120, 
   "mAll": "", 
   "mBottom": "", 
   "mLeft": "", 
@@ -60,7 +60,7 @@
   "size": " btn-md", 
   "style": "", 
   "toggleControl": "", 
-  "top": 240, 
-  "value": "Quiet", 
+  "top": 158, 
+  "value": "Button", 
   "width": "auto"
 }

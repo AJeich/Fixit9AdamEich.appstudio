@@ -14,27 +14,54 @@
       "!type": "External", 
       "file": [
         "forms", 
-        "membership", 
+        "Calculator", 
         "Elements", 
-        "inptFirstName.json"
+        "inptNum1.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "membership", 
+        "Calculator", 
         "Elements", 
-        "btnSubmitMembership.json"
+        "inptNum2.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "membership", 
+        "Calculator", 
         "Elements", 
-        "lblMembership.json"
+        "lblCalcAnswer.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "Calculator", 
+        "Elements", 
+        "btnAdd.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "Calculator", 
+        "Elements", 
+        "btnMuliply.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "Calculator", 
+        "Elements", 
+        "btnClear.json"
       ]
     }
   ], 
@@ -44,7 +71,7 @@
   "expanded_pmp": null, 
   "fullScreen": "true", 
   "height": 460, 
-  "id": "membership", 
+  "id": "Calculator", 
   "language": "JavaScript", 
   "left": "0", 
   "locked": false, 

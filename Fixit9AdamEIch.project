@@ -46,8 +46,16 @@
           "!type": "External", 
           "file": [
             "forms", 
-            "MadLibs", 
-            "MadLibs.json"
+            "Calculator", 
+            "Calculator.json"
+          ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "twoControls", 
+            "twoControls.json"
           ]
         }
       ], 
@@ -65,7 +73,7 @@
       "exetitle": "", 
       "expanded_pmp": null, 
       "extraheaders": null, 
-      "firstform": "login", 
+      "firstform": "twoControls", 
       "fontFamily": "system", 
       "height": "", 
       "homescreenTitle": "", 

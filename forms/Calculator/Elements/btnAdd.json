@@ -28,14 +28,14 @@
   "hidden": "", 
   "icon": "", 
   "iconTitle": "", 
-  "id": "btnGolfer", 
-  "left": 12, 
+  "id": "btnAdd", 
+  "left": 116, 
   "mAll": "", 
   "mBottom": "", 
   "mLeft": "", 
   "mRight": "", 
   "mTop": "", 
-  "onclick": "", 
+  "onclick": "btnAdd.onclick()", 
   "onmousedown": "", 
   "onmousemove": "", 
   "onmouseout": "", 
@@ -60,7 +60,7 @@
   "size": " btn-md", 
   "style": "", 
   "toggleControl": "", 
-  "top": 47, 
-  "value": "Golfer", 
-  "width": 67
+  "top": 300, 
+  "value": "+", 
+  "width": "auto"
 }

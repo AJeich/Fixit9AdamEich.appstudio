@@ -28,14 +28,14 @@
   "hidden": "", 
   "icon": "", 
   "iconTitle": "", 
-  "id": "btnUgly", 
-  "left": 87, 
+  "id": "btnMuliply", 
+  "left": 116, 
   "mAll": "", 
   "mBottom": "", 
   "mLeft": "", 
   "mRight": "", 
   "mTop": "", 
-  "onclick": "", 
+  "onclick": "btnMuliply.onclick()", 
   "onmousedown": "", 
   "onmousemove": "", 
   "onmouseout": "", 
@@ -60,7 +60,7 @@
   "size": " btn-md", 
   "style": "", 
   "toggleControl": "", 
-  "top": 197, 
-  "value": "Ugly", 
-  "width": 56
+  "top": 356, 
+  "value": "X", 
+  "width": "auto"
 }

@@ -14,27 +14,63 @@
       "!type": "External", 
       "file": [
         "forms", 
-        "membership", 
+        "twoControls", 
         "Elements", 
-        "inptFirstName.json"
+        "progressBar.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "membership", 
+        "twoControls", 
         "Elements", 
-        "btnSubmitMembership.json"
+        "inptTestScore.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "membership", 
+        "twoControls", 
         "Elements", 
-        "lblMembership.json"
+        "btnSubmitScore.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "twoControls", 
+        "Elements", 
+        "sliderHappy.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "twoControls", 
+        "Elements", 
+        "lblHowHappy.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "twoControls", 
+        "Elements", 
+        "lblHappy.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "twoControls", 
+        "Elements", 
+        "lblNotHappy.json"
       ]
     }
   ], 
@@ -44,7 +80,7 @@
   "expanded_pmp": null, 
   "fullScreen": "true", 
   "height": 460, 
-  "id": "membership", 
+  "id": "twoControls", 
   "language": "JavaScript", 
   "left": "0", 
   "locked": false, 

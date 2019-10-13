@@ -28,14 +28,14 @@
   "hidden": "", 
   "icon": "", 
   "iconTitle": "", 
-  "id": "btnDog", 
-  "left": 128, 
+  "id": "btnClear", 
+  "left": 101, 
   "mAll": "", 
   "mBottom": "", 
   "mLeft": "", 
   "mRight": "", 
   "mTop": "", 
-  "onclick": "", 
+  "onclick": "Button2.onclick()", 
   "onmousedown": "", 
   "onmousemove": "", 
   "onmouseout": "", 
@@ -60,7 +60,7 @@
   "size": " btn-md", 
   "style": "", 
   "toggleControl": "", 
-  "top": 5, 
-  "value": "Dog", 
-  "width": 65
+  "top": 415, 
+  "value": "Clear", 
+  "width": "auto"
 }
